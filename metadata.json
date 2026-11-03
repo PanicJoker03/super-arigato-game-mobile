@@ -1,0 +1,6 @@
+{
+  "name": "Taller Versátil: ¡Súper Arigato! Mug Master",
+  "description": "Juego móvil de sublimación y taller de tazas del gato de la suerte, basado en la ilustración de Taller Versátil: Laboratorio de Ideas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
